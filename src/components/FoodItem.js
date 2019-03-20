@@ -17,10 +17,10 @@ class FoodItem extends Component {
             </div>
             <div className="media-content">
                <div className="content">
-               <p>
-                  <strong>{name}</strong> <br />
-                  <small>{calories}</small>
-               </p>
+                  <p>
+                     <strong>{name}</strong> <br />
+                     <small>{calories}</small>
+                  </p>
                </div>
             </div>
             <div className="media-right">
